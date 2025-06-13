@@ -12,3 +12,12 @@
  cls
  git status
  cls
+ 
+ git remote -v
+ cls
+ git remote -v
+ git remote set-url origin https://github.com/Kalpanadhamala/github-for-beginner… 
+ cls
+ git remote -v
+ git push origin master
+ cls
