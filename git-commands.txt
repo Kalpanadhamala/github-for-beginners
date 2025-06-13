@@ -1,0 +1,14 @@
+ git init
+ git status
+ dir -Force
+ git status
+ cls
+ git add testingg.py
+ git commit -m "going to add in git command"
+ cls
+ rm testingg.py
+ git status
+ git restore testingg.py
+ cls
+ git status
+ cls
